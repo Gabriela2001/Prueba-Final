@@ -1,0 +1,49 @@
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.COMPRA_VENTAS.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FACTURACION.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PRODUCTOS.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TECNO_FACIL.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\estudiante\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Estudiante\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Estudiante\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Estudiante\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Estudiante\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.COMPRA_VENTAS.resources
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.FACTURACION.resources
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.PRODUCTOS.resources
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.TECNO_FACIL.resources
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\bin\Debug\TECNOFACIL.accdb
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Estudiante\Desktop\TecnoFacil\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\bin\Debug\TECNOFACIL.accdb
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.COMPRA_VENTAS.resources
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.FACTURACION.resources
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.PRODUCTOS.resources
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.TECNO_FACIL.resources
+C:\Users\Estudiante\Desktop\EXAMEN 2018\TecnoFacil\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
